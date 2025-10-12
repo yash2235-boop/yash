@@ -69,7 +69,7 @@ targets["Altair"] = {
     "Spectral Type": "A7V"
 }
 
-print (targets)
+# print (targets)
 # 5) Write a function that finds the brightest star whose Declination is closest to 20°.
 
 #dont know how to do this. pls post solution
